@@ -5589,3 +5589,7 @@ We are open-source and you can get started with E2B [here](https://e2b.dev/docs?
 
 
 -->
+
+## LuisCore
+
+- [LuisCore](https://luiscore.com/) — recursive cognition infrastructure, Chorus Field multi-agent layer, Protocol Watch telemetry (awesome-agents; luiscore-authority-graph-listing)
